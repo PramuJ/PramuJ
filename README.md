@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PramuJ aka Pramuditha Jayasundara
+- 👋 Hi, I’m @PramuJ AKA Pramuditha Jayasundara
 - 👀 I’m interested in technology, software development, artifical intelligence and exploring new ideas.
 - 🌱 I’m currently learning full stack web development, which is exciting and challenging!
 - 💞️ I’m looking to collaborate on projects that involve innovative solutions and creativity.
